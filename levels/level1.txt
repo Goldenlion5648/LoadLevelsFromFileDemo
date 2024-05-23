@@ -1,0 +1,6 @@
+R  G  B  .  G
+G  B  R
+
+zoom=1.5
+
+

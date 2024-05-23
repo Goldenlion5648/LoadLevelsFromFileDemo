@@ -1,0 +1,14 @@
+config_version=5
+
+[application]
+
+config/name="LoadLevelsFromFileDemo"
+run/main_scene="res://tile_map.tscn"
+config/features=PackedStringArray("4.2", "GL Compatibility")
+config/icon="res://thumbnail.png"
+config/tags=PackedStringArray("demo", "think_with_games_yt", "tilemap")
+
+[rendering]
+
+renderer/rendering_method="gl_compatibility"
+renderer/rendering_method.mobile="gl_compatibility"
